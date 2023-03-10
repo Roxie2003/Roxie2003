@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h1 align="center">Hi there 👋 I'm Ruchita Wagh</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning Reactjs<br>💬 Ask me about anything, happy to help<br>🎶 Fun fact: Everything is doable when done while listening music
 
