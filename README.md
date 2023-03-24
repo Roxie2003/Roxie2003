@@ -26,14 +26,24 @@ Email: ruchita03wagh@gmail.com
 
 
 ## 📊 GitHub Stats:
+<div class='container' align="center">
+  <img style="height: auto; width: 70%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Roxie2003&theme=tokyonight&hide_border=true" />
+</div>
+<br>
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Roxie2003&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width:38%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxie2003&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></div>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Roxie2003&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Roxie2003&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxie2003&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<div align="center">
+<img class="img" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
