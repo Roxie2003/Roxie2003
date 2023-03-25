@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning Reactjs<br>💬 Ask me about anything, happy to help<br>🎶 Fun fact: Everything is doable when done while listening music
+🔭 I’m currently working on MERN Stack<br>🌱 At present I'm learning Reactjs<br>💬 Ask me about anything, happy to help<br>🎶 Fun fact: Everything is doable when done while listening music
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ruchi03Wagh#4773) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruchi_03.wagh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchita-wagh-351ab3173) 
